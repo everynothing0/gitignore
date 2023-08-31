@@ -1,0 +1,8 @@
+#test binary, built with 'go test -c'
+*.test
+
+# output
+*.out
+
+# go workspace file
+go.work

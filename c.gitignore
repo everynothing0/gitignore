@@ -1,0 +1,19 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.obj
+
+# libraries
+*.lib
+*.a
+
+# executables
+*.exe
+*.out
+*.app
+*.hex
+
+# kernel module compile res
+*.mod*
